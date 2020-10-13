@@ -7,8 +7,8 @@ module.exports = {
     {
       use: '@gridsome/source-contentful',
       options: {
-        space: 'SPACE_ID', // required
-        accessToken: 'ACCESS_TOKEN', // required
+        space: 'vk0z5crn4dnq', // required
+        accessToken: 'WRIYEBk4JxfifM90V8RCO6UE4odxb1suOkq4COdnuF4', // required
         typeName: 'Contentful'
       }
     }
